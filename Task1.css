@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: pink;
+    
+}
+
+#Table{
+   
+    color: rgb(10, 6, 6);
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 20px;
+}
+
+#music{
+   
+    color: rgb(0, 0, 0);
+    margin: 3rem;
+}
+
+#my{
+   padding-left: 40rem;
+    align-items: center;
+    margin: 3rem;
+}
